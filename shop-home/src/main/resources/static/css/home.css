@@ -1,0 +1,18 @@
+#main-container {
+    background-color: hsl(348, 83%, 47%);
+    padding-top: 5.1em;
+    padding-left: 7.5em;
+}
+#category {
+    text-align: center;
+    float: left;
+    width: 20%;
+    height: 300px;
+    color: white;
+    font-size: 16px;
+    background-color: cornflowerblue;
+}
+#myCarousel {
+    float: left;
+    width: 71.6%;
+}

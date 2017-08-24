@@ -1,0 +1,27 @@
+#category {
+    position: relative;
+}
+#category .level1 {
+}
+
+
+#category .level2 {
+    display: none;
+    text-align: left;
+}
+#category .level1:hover .level2 {
+    display: block;
+}
+#category .level2-container {
+    position: absolute;
+    top: 0;
+    left: 100%;
+    width: 50em;
+    z-index: 100;
+    background-color: dimgrey;
+}
+
+
+#category .level3 {
+    display: inline-block;
+}
